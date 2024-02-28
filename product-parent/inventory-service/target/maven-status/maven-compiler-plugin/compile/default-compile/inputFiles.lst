@@ -1,0 +1,6 @@
+D:\Study\Courses\Microservices\product-parent\inventory-service\src\main\java\com\shashu\inventoryservice\controller\InventoryController.java
+D:\Study\Courses\Microservices\product-parent\inventory-service\src\main\java\com\shashu\inventoryservice\InventoryServiceApplication.java
+D:\Study\Courses\Microservices\product-parent\inventory-service\src\main\java\com\shashu\inventoryservice\repository\InventoryRepository.java
+D:\Study\Courses\Microservices\product-parent\inventory-service\src\main\java\com\shashu\inventoryservice\model\Inventory.java
+D:\Study\Courses\Microservices\product-parent\inventory-service\src\main\java\com\shashu\inventoryservice\dto\InventoryResponse.java
+D:\Study\Courses\Microservices\product-parent\inventory-service\src\main\java\com\shashu\inventoryservice\service\InventoryService.java

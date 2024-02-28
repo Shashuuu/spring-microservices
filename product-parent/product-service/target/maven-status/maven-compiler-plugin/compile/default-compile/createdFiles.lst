@@ -1,0 +1,10 @@
+com\shashu\productservice\model\Product$ProductBuilder.class
+com\shashu\productservice\controller\ProductController.class
+com\shashu\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\shashu\productservice\ProductServiceApplication.class
+com\shashu\productservice\dto\ProductResponse.class
+com\shashu\productservice\repository\ProductRepository.class
+com\shashu\productservice\service\ProductService.class
+com\shashu\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\shashu\productservice\model\Product.class
+com\shashu\productservice\dto\ProductRequest.class
