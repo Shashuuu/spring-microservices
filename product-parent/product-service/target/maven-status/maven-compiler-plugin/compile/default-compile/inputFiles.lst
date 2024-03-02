@@ -1,7 +1,7 @@
-D:\Study\Courses\Microservices\product-parent\product-service\src\main\java\com\shashu\productservice\model\Product.java
-D:\Study\Courses\Microservices\product-parent\product-service\src\main\java\com\shashu\productservice\service\ProductService.java
-D:\Study\Courses\Microservices\product-parent\product-service\src\main\java\com\shashu\productservice\controller\ProductController.java
-D:\Study\Courses\Microservices\product-parent\product-service\src\main\java\com\shashu\productservice\ProductServiceApplication.java
-D:\Study\Courses\Microservices\product-parent\product-service\src\main\java\com\shashu\productservice\dto\ProductRequest.java
-D:\Study\Courses\Microservices\product-parent\product-service\src\main\java\com\shashu\productservice\repository\ProductRepository.java
-D:\Study\Courses\Microservices\product-parent\product-service\src\main\java\com\shashu\productservice\dto\ProductResponse.java
+D:\Study\Courses\Microservices\spring-microservices\product-parent\product-service\src\main\java\com\shashu\productservice\ProductServiceApplication.java
+D:\Study\Courses\Microservices\spring-microservices\product-parent\product-service\src\main\java\com\shashu\productservice\service\ProductService.java
+D:\Study\Courses\Microservices\spring-microservices\product-parent\product-service\src\main\java\com\shashu\productservice\model\Product.java
+D:\Study\Courses\Microservices\spring-microservices\product-parent\product-service\src\main\java\com\shashu\productservice\dto\ProductRequest.java
+D:\Study\Courses\Microservices\spring-microservices\product-parent\product-service\src\main\java\com\shashu\productservice\dto\ProductResponse.java
+D:\Study\Courses\Microservices\spring-microservices\product-parent\product-service\src\main\java\com\shashu\productservice\repository\ProductRepository.java
+D:\Study\Courses\Microservices\spring-microservices\product-parent\product-service\src\main\java\com\shashu\productservice\controller\ProductController.java

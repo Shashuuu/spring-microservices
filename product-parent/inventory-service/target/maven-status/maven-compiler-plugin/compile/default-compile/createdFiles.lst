@@ -1,5 +1,7 @@
 com\shashu\inventoryservice\service\InventoryService.class
+com\shashu\inventoryservice\dto\InventoryResponse.class
 com\shashu\inventoryservice\controller\InventoryController.class
+com\shashu\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
 com\shashu\inventoryservice\model\Inventory.class
 com\shashu\inventoryservice\InventoryServiceApplication.class
 com\shashu\inventoryservice\repository\InventoryRepository.class
